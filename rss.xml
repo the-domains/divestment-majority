@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Divestment Majority]]></title>
+        <description><![CDATA[Divestment Majority]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 May 2016 01:50:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Our mission is to highlight the effort made by people to divest from fossil fuels. Thomas Friedman from the New York Times, said it best "Green needs to become the new Red, White, & Blue if our country is to remain a global power."</p>]]></description>
+            <link>undefinedour-mission-is-to-highlight-the-effort-made-by-people-to-div/index.html</link>
+            <guid isPermaLink="false">0714645a-74a5-4976-ad4e-50f978cbfc61</guid>
+            <pubDate>Fri, 06 May 2016 01:50:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
